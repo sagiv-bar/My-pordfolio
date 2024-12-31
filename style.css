@@ -5,13 +5,15 @@ body {
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
+    display: flex;
+    justify-content: center; /* מרכז את כל התוכן אופקית */
+    height: 100vh; /* גובה כל הדף */
     text-align: center;
 }
 
 /* קונטיינר לכל התוכן */
 .container {
     width: 80%;
-    margin: 20px auto; /* ריווח עליון ותחתון */
 }
 
 /* כותרת ראשית */
