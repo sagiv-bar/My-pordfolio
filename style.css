@@ -1,35 +1,41 @@
+/* כל העמוד */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
-    text-align: center; /* מרכז את כל התוכן */
+    display: flex;
+    justify-content: center; /* מרכז את כל התוכן אופקית */
+    align-items: center; /* מרכז את כל התוכן אנכית */
+    height: 100vh; /* גובה כל הדף */
+    text-align: center;
 }
 
+/* קונטיינר לכל התוכן */
+.container {
+    width: 80%;
+}
+
+/* כותרת ראשית */
 h1 {
-    margin-top: 50px;
+    margin-bottom: 20px;
 }
 
+/* כותרת פרויקטים */
 h2 {
-    margin-top: 30px;
+    margin-bottom: 10px;
     color: #555;
 }
 
-.project-section {
-    margin-top: 20px;
-    display: flex;
-    flex-direction: column; /* מסדר את הכותרות והרשימות בצורה אנכית */
-    align-items: center; /* מוודא שהתוכן במרכז */
-}
-
-h3 {
-    margin-top: 10px;
-    margin-bottom: 10px;
+/* תת-כותרת */
+.project-section h3 {
+    margin: 20px 0;
     color: #555;
     font-weight: bold;
 }
 
+/* רשימת פרויקטים */
 .project-list {
     list-style-type: none;
     padding: 0;
@@ -40,6 +46,7 @@ h3 {
     margin: 10px 0;
 }
 
+/* קישורים */
 a {
     text-decoration: none;
     color: #007BFF;
