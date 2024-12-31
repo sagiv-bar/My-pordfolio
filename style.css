@@ -5,16 +5,13 @@ body {
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
-    display: flex;
-    justify-content: center; /* מרכז את כל התוכן אופקית */
-    align-items: center; /* מרכז את כל התוכן אנכית */
-    height: 100vh; /* גובה כל הדף */
     text-align: center;
 }
 
 /* קונטיינר לכל התוכן */
 .container {
     width: 80%;
+    margin: 20px auto; /* ריווח עליון ותחתון */
 }
 
 /* כותרת ראשית */
@@ -31,7 +28,7 @@ h2 {
 /* תת-כותרת */
 .project-section h3 {
     margin: 20px 0;
-    color: #555;
+    color: #000; /* שחור */
     font-weight: bold;
 }
 
