@@ -19,18 +19,21 @@ h2 {
 
 h3 {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 20px; /* שולי עליון קטנים יותר */
     margin-bottom: 10px;
     color: #555;
     font-weight: bold;
+    display: block; /* ודא שהאלמנט מוגדר כבלוק */
     width: 100%;
+    clear: both; /* ביטול השפעה של אלמנטים אחרים */
 }
 
-
 ul {
-    list-style-type: none;
-    text-align: center;
+    list-style-type: none; /* ביטול הנקודות ברשימה */
+    text-align: center; /* מיקום במרכז */
     padding: 0;
+    margin: 0 auto; /* מוודא שהרשימה ממורכזת */
+    display: inline-block; /* הופך את הרשימה לאלמנט במרכז */
 }
 
 ul li {
