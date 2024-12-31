@@ -4,7 +4,7 @@ body {
     padding: 0;
     background-color: #f4f4f9;
     color: #333;
-    text-align: center; /* מוודא שכל האלמנטים ממורכזים */
+    text-align: center; /* מרכז את כל התוכן */
 }
 
 h1 {
@@ -16,26 +16,27 @@ h2 {
     color: #555;
 }
 
-h3 {
+.project-section {
     margin-top: 20px;
+    display: flex;
+    flex-direction: column; /* מסדר את הכותרות והרשימות בצורה אנכית */
+    align-items: center; /* מוודא שהתוכן במרכז */
+}
+
+h3 {
+    margin-top: 10px;
     margin-bottom: 10px;
     color: #555;
     font-weight: bold;
 }
 
-.project-section {
-    display: inline-block; /* מרכז את התוכן בתוך ה-body */
-    text-align: center;
-    margin-top: 20px;
-}
-
-ul {
+.project-list {
     list-style-type: none;
     padding: 0;
-    margin: 10px 0;
+    margin: 0;
 }
 
-ul li {
+.project-list li {
     margin: 10px 0;
 }
 
