@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Sagiv Bar Portfolio
 
 Welcome to my portfolio! Here, you can find details about three of my key projects, demonstrating my expertise in various technological fields such as Computer Vision, neural networks, and Autonomous Navigation.
