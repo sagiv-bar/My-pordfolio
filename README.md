@@ -44,7 +44,7 @@ This project involves designing an autonomous robot for drawing and distributing
 ### Video Presentation
 Watch the video demonstration of the project on YouTube:
 
-[[Watch the video]]([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=O9t15PjKslc))
+[![Watch the video](https://img.youtube.com/vi/O9t15PjKslc/0.jpg)](https://www.youtube.com/watch?v=O9t15PjKslc)
 ---
 
 ### Contact
