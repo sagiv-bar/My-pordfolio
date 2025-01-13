@@ -22,7 +22,7 @@ This project focuses on identifying and estimating Gaussian white noise in image
 ### Description
 This project examines methods for estimating distances between BLE (Bluetooth Low Energy) transmitters and receivers using RSSI measurements and Artificial Neural Networks (ANN). It focuses on improving estimation accuracy using advanced machine learning technologies.
 ### Technologies
-- Python and TensorFlow
+- Python: TensorFlow , Keras , PyTorch
 - Artificial Neural Networks (ANN)
 - Performance Metrics: MSE, R2
 - Bluetooth Low Energy (BLE)
@@ -36,7 +36,8 @@ This project involves designing an autonomous robot for drawing and distributing
 ### Technologies
 - ArduPilot Platform
 - Pixhawk and Raspberry Pi
-- Sensors: GPS, LIDAR
+- Sensors: GPS, LIDAR, IMU 
+- Algorithms such as Optical Flow and External Kalman Filter
 - Navigation and Path Planning Algorithms
 ### [Click here for the project](https://github.com/sagiv-bar/My-Autonomous-Robot-Project)
 
