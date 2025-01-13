@@ -41,6 +41,10 @@ This project involves designing an autonomous robot for drawing and distributing
 - Navigation and Path Planning Algorithms
 ### [Click here for the project](https://github.com/sagiv-bar/My-Autonomous-Robot-Project)
 
+### Video Presentation
+Watch the video demonstration of the project on YouTube:
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 ---
 
 ### Contact
