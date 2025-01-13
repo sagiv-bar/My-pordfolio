@@ -2,7 +2,7 @@
 
 # Sagiv Bar Portfolio
 
-Welcome to my portfolio! Here, you can find details about three of my key projects, demonstrating my expertise in various technological fields such as image processing, neural networks, and robotics.
+Welcome to my portfolio! Here, you can find details about three of my key projects, demonstrating my expertise in various technological fields such as Computer Vision, neural networks, and Autonomous Navigation.
 
 ---
 
@@ -46,7 +46,5 @@ This project involves designing an autonomous robot for drawing and distributing
 ### Contact
 If you have any questions or suggestions, feel free to reach out through [GitHub](https://github.com/sagiv-bar).
 
----
 
-Good luck with your portfolio! If you'd like to add any changes, let me know! 😊
 
