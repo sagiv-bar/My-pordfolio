@@ -47,6 +47,7 @@ Watch the video demonstration of the project on YouTube:
 
 ### Contact
 If you have any questions or suggestions, feel free to reach out through [GitHub](https://github.com/sagiv-bar).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/sagiv-bar).
 
 
 
