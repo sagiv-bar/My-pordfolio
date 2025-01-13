@@ -21,7 +21,7 @@ This project focuses on identifying and estimating Gaussian white noise in image
 This project examines methods for estimating distances between BLE (Bluetooth Low Energy) transmitters and receivers using RSSI measurements and Artificial Neural Networks (ANN). It focuses on improving estimation accuracy using advanced machine learning technologies.
 ### Technologies
 - Python: TensorFlow , Keras , PyTorch
-- Artificial Neural Networks (ANN)
+- Artificial Neural Networks (ANN & Dnn)
 - Performance Metrics: MSE, R2
 - Bluetooth Low Energy (BLE)
 ### [Click here for the project](https://github.com/sagiv-bar/My-pordfolio/blob/main/Estimation_of_BLE_Signal_Distance_Using_Artificial_Neural_Networks.ipynb)
